@@ -3,7 +3,6 @@ import string
 import time
 from discord_webhook import DiscordWebhook
 
-
 WEBHOOK = "DISCORD.COM/WEBHOOK/WHATEVERTHELINKWASIDKIFORGOTLMAOTHISISATIMEWASTERDONTACTUALLYRUNTHISANDEXPECTSOMETHINGYOUFUNKYBASEMENTDWELLERYOU"
 
 def generateCode(length):
@@ -24,4 +23,6 @@ print("HEY THERE VERY EPIC SKID MACHINE WHO HAD NOTHING TO DO ON THE 21st NIGHT 
 while True:
     time.sleep(2)
     generateCode(19)
+
+# for actually regular users, read the WEBHOOK placeholder link
 
