@@ -7,7 +7,7 @@ Well, do I have the tool for you! Send this to that one friend who made you reth
 # HOW TO USE
 It's quite simple, really! It is!
 
-Run the following command in your console / terminal / whatever:
+Run the following command in your console/terminal:
 `pip -m install discord-webhook`
-and your funny tool should be up and running!
+and run your program to start your 8 octillion year wait, good luck!
 
