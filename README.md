@@ -8,8 +8,7 @@ Well, do I have the tool for you! Send this to that one friend who made you reth
 It's quite simple, really! It is!
 
 Run the following command in your console/terminal:
-`pip -m install discord-webhook`
-and run your program to start your 8 octillion year wait, good luck!
+`pip -m install discord-webhook`, change the webhook link to the one linked to your server, and run your program to start your 8 octillion year wait, good luck!
 
 # QUESTIONS NO ONE ASKED
 Q: Can I scam discord no-lifes with this?
