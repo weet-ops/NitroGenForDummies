@@ -13,13 +13,13 @@ and run your program to start your 8 octillion year wait, good luck!
 
 # QUESTIONS NO ONE ASKED
 Q: Can I scam discord no-lifes with this?
-A: That would make **you** a no-life, no?
+    A: That would make **you** a no-life, no?
 
 Q: Can I add my own malware to this?
-A: Seek professional help.
+    A: Seek professional help.
 
 Q: SkidLordSupreme here, can I put this behind a paywall and claim it as my own?
-A: lmao get a life
+    A: lmao get a life
 
 Q: Can I read this to practice my python skills?
-A: Go right ahead!
+    A: Go right ahead!
