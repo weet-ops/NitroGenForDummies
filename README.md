@@ -1,4 +1,4 @@
-# A somehwat
+# A somehwat easy to use but really really bad nitro generator (DO NOT USE)
 Fake out your internet skid friends with this simple program that does physically nothing to aid human civilization!
 Ever wanted to get payback on your online friend (that might not even be real) who scammed you out of your home for a month of discord nitro because they felt like it on a wednesday night?
 
